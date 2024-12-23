@@ -1,1 +1,1 @@
-# hospital_chatbot
+# Hospital Chatbot Project
