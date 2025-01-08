@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "hospital-chatbot"
+version = "0.1.0"
+description = "Learning how to build a llm application using langchain or other popular tools."
+authors = ["czw <1013348178@qq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.1"
+langchain = "^0.3.14"
+langchain-openai = "^0.2.14"
+langchain-community = "^0.3.14"
+dashscope = "^1.20.14"
+langchain-chroma = "^0.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
